@@ -1,0 +1,3 @@
+[nws.workspace]
+sleigh = sleigh.plugin:SleighWorkSpace
+
